@@ -10,6 +10,7 @@ DroneZone is a web application for synchronizing and monitoring active, flying d
 
 Link to the main project repository:
 https://github.com/andensanden/DroneZone
+
 Link to the back-end repository:
 https://github.com/andensanden/II1305_Backend
 
